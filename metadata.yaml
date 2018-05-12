@@ -1,10 +1,14 @@
 _repo: The-Emancipation-of-South-America_48856
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Pilling, William
     birthdate: 1834
     gutenberg_agent_id: '40859'
     url: http://www.gutenberg.org/2009/agents/40859
+covers:
+- cover_type: archival
+  image_path: 48856-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitre, Bartolomé
@@ -17,6 +21,8 @@ creator:
     - http://es.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
     - http://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48856#The-Emancipation-of-South-America
 gutenberg_issued: '2015-05-02'
 gutenberg_type: Text
 identifiers:
